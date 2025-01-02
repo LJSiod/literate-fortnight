@@ -66,13 +66,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <button type="submit" class="btn btn-sm btn-primary">Upload</button>
                 </div>
             </div>
-            <div class="col-md-12">
-                <div class="br-section-wrapper">
-                    <h6 class="br-section-label">Upload File</h6>
-                    <input class="form-control" type="file" name="file" id="file"><br>
-                    <button type="submit" class="btn btn-sm btn-primary">Upload</button>
-                </div>
-            </div>
         </div>
     </div>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
